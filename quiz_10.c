@@ -11,8 +11,4 @@
                 printf("false");
             }
         }
-        else
-        {
-            printf("not");
-        }
     }
